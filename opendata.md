@@ -10,19 +10,19 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 檔案解壓縮之後的目錄結構如下：
 
 - article （熱門文章）
- - constellation.json （星座運勢）
- - food.json （美味食記）
- - makeup.json （美妝 styleMe）
- - medic.json （醫療保健）
- - mombaby.json （親子育兒）
- - movie.json （電影評論）
- - sport.json （運動體育）
- - travel_foreign.json （國外旅遊）
- - travel_taiwan.json （國內旅遊）
+   - constellation.json （星座運勢）
+   - food.json （美味食記）
+   - makeup.json （美妝 styleMe）
+   - medic.json （醫療保健）
+   - mombaby.json （親子育兒）
+   - movie.json （電影評論）
+   - sport.json （運動體育）
+   - travel_foreign.json （國外旅遊）
+   - travel_taiwan.json （國內旅遊）
 - service （客服內容）
- - faq.json （痞客邦客服常見問題）
- - qa.json （2017年1~4月的客服問題內文與問題回覆）
- - tempalte.json （客服問題回覆模版）
+   - faq.json （痞客邦客服常見問題）
+   - qa.json （2017年1~4月的客服問題內文與問題回覆）
+   - tempalte.json （客服問題回覆模版）
 
 ### 熱門文章資料格式
 
@@ -78,7 +78,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 
 #### FAQ
 
-檔案 faq.json 是[痞客邦客服中心](https://help.pixnet.tw/)常見問題列表，如下圖
+檔案 `faq.json` 是[痞客邦客服中心](https://help.pixnet.tw/)常見問題列表，如下圖
 
 ![痞客邦客服中心常見問題](https://storage.googleapis.com/2017-hackathon-data-download/faq.jpg)
 
@@ -103,7 +103,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 
 #### QA
 
-檔案 qa.json 是[痞客邦客服中心](https://help.pixnet.tw/)今年所收到的部分問題
+檔案 `qa.json` 是[痞客邦客服中心](https://help.pixnet.tw/)今年所收到的部分問題
 
 ##### QA 資料格式
 
@@ -128,7 +128,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 
 #### Template
 
-檔案 template.json 是[痞客邦客服中心](https://help.pixnet.tw/)常見問題的回應模版
+檔案 `template.json` 是[痞客邦客服中心](https://help.pixnet.tw/)常見問題的回應模版
 
 ##### Template 資料格式
 
@@ -172,9 +172,4 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 違反中華民國法令或造成第三人發生違反中華民國法令的行為。
 另為提供他人資料集下載。亦即，您不可以複製一份資料集到您自己的網路服務上供他人下載，但您可以提供他人此份說明文件的連結。
 如您利用提供的資料集，開發任何妨礙善良風俗之違法服務或程式工具，PIXNET 並不為此負任何法律連帶責任。
-
-
-
-
-
 
