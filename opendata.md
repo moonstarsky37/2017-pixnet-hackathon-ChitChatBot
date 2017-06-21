@@ -30,7 +30,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 
 #### 資料格式
 
-```json
+```
 {
   "category": 痞客邦文章分類,
   "post_date": 發文時間,
@@ -84,7 +84,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 
 ##### FAQ 資料格式
 
-```json
+```
 {
   "star": 會員評分，可參考 https://help.pixnet.tw/index/category?category_id=6,
   "name": 問題描述,
@@ -107,7 +107,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 
 ##### QA 資料格式
 
-```json
+```
 {
   "article_title": 問題標題,
   "comment_desc": 回應,
@@ -148,8 +148,6 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
   "template_content": "您好：\r\n\r\n為保護會員帳號資料安全，站方未有開放會員申請更改(換)帳號之服務，需請您的諒解。\r\n\r\n但您可於登入後進入「部落格後台」，選擇「管理首頁」右側的「變更暱稱」進行修改，可依個人喜好來設定暱稱，而痞客邦PIXNET前台顯示帳號的地方（網址、部落格名片頁暱稱後方括弧除外）都將逐步替換成您的暱稱，不會再顯示您的帳號。\r\n\r\n不提供帳號更換的服務適用全站所有身份會員\r\n會員可參考站方公告說明： http://admin.pixnet.net/blog/post/25980962 第七點\r\n\r\n謝謝您"
 }
 ```
-
----
 
 ###  資料授權使用說明
 
