@@ -21,7 +21,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
    - travel_taiwan.json （國內旅遊）
 - service （客服內容）
    - faq.json （痞客邦客服常見問題）
-   - qa.json （2017年1~4月的客服問題內文與問題回覆）
+   - qa.json （2017年部分痞客邦所收到的的客服問題內文與問題回覆）
    - tempalte.json （客服問題回覆模版）
 
 ### 熱門文章資料格式
@@ -132,7 +132,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 
 ##### Template 資料格式
 
-```json
+```
 {
   "template_title": 問題,
   "template_content": 回應
@@ -149,7 +149,7 @@ PIXNET 為本次 hackathon 開放了 9 萬篇熱門文章，以及痞客邦網�
 }
 ```
 
-###  資料授權使用說明
+##  資料授權使用說明
 
 以上資料 是 2017 PIXNET Hackathon 活動中開放的資料集。詳細的資料說明與授權如下。
 
