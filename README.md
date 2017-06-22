@@ -42,7 +42,7 @@ TBD
 
 開放資料共有 **「痞客邦各分類熱門文章」** 以及 **「痞客邦客服中心資料」** 兩大類，詳細資料說明請參閱：
 
- [資料說明](https://github.com/pixnet/2017-pixnet-hackathon-TaskOrientedBot/blob/master/opendata.md)
+ [資料說明](https://github.com/pixnet/2017-pixnet-hackathon-ChitChatBot/blob/master/opendata.md)
 
 ## 評分標準
 
