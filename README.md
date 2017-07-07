@@ -8,8 +8,7 @@ A.I. 人工智慧議題再度席捲全球，ChatBot（對話機器人）的開�
 
 ## 活動網址
 
-TBD
-
+https://pixnethackathon2017.events.pixnet.net/
 
 ## 比賽辦法
 
@@ -35,7 +34,7 @@ PixBot：安安你好幾歲住哪？
 
 ### 加入 PIXNET 2017 Hackathon Slack Team 步驟說明
 
-https://pixnethackathon2017.events.pixnet.net/
+TBD
 
 ## 開放資料
 
