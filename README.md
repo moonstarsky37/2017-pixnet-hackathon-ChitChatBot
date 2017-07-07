@@ -35,8 +35,7 @@ PixBot：安安你好幾歲住哪？
 
 ### 加入 PIXNET 2017 Hackathon Slack Team 步驟說明
 
-TBD
-
+https://pixnethackathon2017.events.pixnet.net/
 
 ## 開放資料
 
