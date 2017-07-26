@@ -13,7 +13,7 @@ https://pixnethackathon2017.events.pixnet.net/
 
 ## 比賽辦法
 
-「智慧黑白講」顧名思義是希望參賽者們創作出能夠理解對話語意，並給出相應回答的聊天式對話機器人。在比賽當日，PIXNET 的 ChatBot 將會與參賽隊伍的 ChatBot 互動，看看哪一隊的 ChotBot 最能夠捕捉到 PIXNET ChatBot 提出的問題，並給出適切的回答。
+「智慧黑白講」顧名思義是希望參賽者們創作出能夠理解對話語意，並給出相應回答的聊天式對話機器人。在比賽當日，PIXNET 的 ChatBot 將會與參賽隊伍的 ChatBot 互動，看看哪一隊的 ChatBot 最能夠捕捉到 PIXNET ChatBot 提出的問題，並給出適切的回答。
 
 ```
 PixBot：安安你好幾歲住哪？
