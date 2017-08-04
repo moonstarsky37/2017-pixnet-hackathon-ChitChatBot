@@ -25,6 +25,10 @@ PixBot：安安你好幾歲住哪？
 
 如同以上的示意圖，PIXNET 屆時將邀請所有參賽者進入比賽的 [slack](https://slack.com/) 頻道，並提供 slack 平台 bot 串接的 sample code，參賽者只需將回答填入 sample code 之中的預設欄位，即可在 slack 頻道上進行比賽。
 
+### 比賽實況模擬影片
+請參考 https://www.facebook.com/pixnetbot/videos/1688812314760919/
+
+
 ### 獎項與評分方法
 
 |      獎項      |                      評分方法                      |      獎金      |
